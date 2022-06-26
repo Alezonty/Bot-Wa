@@ -1,0 +1,13 @@
+{
+    "wait": "```「⏳」Loading...```",
+    "error": {
+        "Iv": "*[❗] Shitei shita rinku ga mukōdesu*",
+        "api": "*[❗] ErA*"
+    },
+    "OnlyGrup": "*[❗]  Perintah Ini Hanya Bisa Digunakan Di Grup*",
+    "OnlyPM": "*[❗]  Perintah Ini Hanya Bisa Digunakan Di Pesan Pribadi*",
+    "GrupAdmin": "*[❗]  Perintah Ini Hanya Bisa Digunakan Oleh Admin Grup*",
+    "BotAdmin": "*[❗]  Bot Harus Menjadi Admin*",
+    "OnlyOwner": "*[❗]  Perintah Ini Hanya Dapat Digunakan Oleh Pemilik Bot*",
+    "OnlyPrem": "*[❗]  Perintah Ini Khusus Pengguna Premium*"
+}
